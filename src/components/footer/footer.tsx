@@ -6,7 +6,10 @@ import FooterNavButton from './footerNavButton.tsx';
 
 export default function Footer() {
   return (
-    <Paper>
+    <Paper sx={{
+        paddingTop:'7%',
+        paddingBottom:'7%'
+    }}>
         <Container maxWidth="xl">
             <Grid container sx={{
                 flexDirection:{md:'column-reverse', lg:'row'}

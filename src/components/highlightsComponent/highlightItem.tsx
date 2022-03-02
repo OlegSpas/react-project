@@ -11,7 +11,9 @@ export default function HightlightItem(props:IProps) {
   return (
     <Grid item xs={12} sm={6} lg={4}>
         <Card sx={{
-            boxShadow:0
+            boxShadow:0,
+            width:{xs:'100%',sm:'80%'},
+            mt:{xs:0, lg:'3%', xl:0}
         }}>
             <CardContent sx={{
                  paddingTop:0,
@@ -23,12 +25,13 @@ export default function HightlightItem(props:IProps) {
                     sx={{
                         fontWeight:700,
                         fontSize:'24px',
-                        lineHeight:'28px',
+                        lineHeight:'26px',
                         color:'#424347',
                         height:'50px',
                         width:'50%',
                         display:'flex',
-                        alignItems:'flex-end'
+                        alignItems:'flex-end',
+                        marginBotoom:'5%'
                     }}>
                     {props.title}
                 </Typography>

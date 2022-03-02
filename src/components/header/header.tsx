@@ -20,8 +20,8 @@ const Header = () => {
 
   return (
     <AppBar sx={{  
-        backgroundColor: { xs: '#fff', lg: 'transparent' },
-        position:{xs:'static', lg:'absolute'},
+        backgroundColor: { xs: '#fff', lg: '#0F100F' },
+        position:{xs:'static', lg:'static'},
         boxShadow:"none"
       }}>
       <Container maxWidth='xl'>
@@ -30,9 +30,10 @@ const Header = () => {
           sx={{
             display:'flex',
             justifyContent:'space-between',
-            alignItems:'flex-start !important',
+            alignItems:'center !important',
             width:'100%',
-            paddingTop:{xs:'0',lg:'7%'},
+            paddingTop:{xs:'0',lg:'1.5%'},
+            paddingBottom:{xs:'0',lg:'1.5%'}
           }}>
           <IconButton
             disableRipple
@@ -46,23 +47,24 @@ const Header = () => {
               alt="Logo"
               src={logo}
               sx={{
-                height:61,
+                height:50,
                 maxHeight:210
               }}
             />
           </IconButton>
-          <Grid container
+          <Box
             sx={{
-              width:'65%',
+              width:{lg:'63%',xl:'50%'},
               display: { lg: 'flex', xs: 'none' },
+              alignItems:'center',
               position:'relative',
              }}
-             spacing={1}>  
+            >  
             <Button
               sx={{
                 position:"absolute",
-                right:'3%',
-                bottom:'110%',
+                right:'0%',
+                bottom:'60%',
                 color:'#fff',
                 fontWeight:700,
                 fontSize:'12px',
@@ -76,7 +78,7 @@ const Header = () => {
                   key={index}
                 />
             ))}
-          </Grid>
+          </Box>
           <Box sx={{
              display: { xs: 'flex', lg: 'none' } ,
              justifyContent:'space-between',

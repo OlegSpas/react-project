@@ -1,0 +1,136 @@
+{
+    "cases": [
+      {
+        "title": "Industry Expertise",
+        "details":[
+            {
+                "caseTitle":"Media",
+                "description":"Our team has extensive experience as operators and investors in media. This experience spans more than four decades and numerous industry cycles. As a result of this experience, we benefit from a deep relationship network, which enables us to source proprietary investments. Our investment focus includes distribution, communications infrastructure, content, equipment and services. We are focused on finding value in sub-sectors that are undergoing actual or perceived dislocations caused by new technologies, changing consumer preferences and economic cycles. We also seek to invest in companies that will be direct or indirect beneficiaries of growing data, video and communications consumption.",
+                "navName":"Case Studies",
+                "primaryLink":[
+                    {
+                        "primaryLinkName":"Meet the Financial Services Team",
+                        "primaryLinkPath":"primaryLinkPath"
+                    }
+                ],
+                "links":[
+                    {
+                        "linkName":"Camping World Holdings",
+                        "linkPath":"#"
+                    },
+                    {
+                        "linkName":"Charter Communications",
+                        "linkPath":"#"
+                    }
+                ]
+            },
+            {
+                "caseTitle":"Financial Services",
+                "description":"We combine extensive operating experience with a deep relationship network to source proprietary investments and add value in financial services. The team focuses on asset and wealth management, insurance, capital markets, banking and finance sectors. We have successfully invested across cycles and seek to capitalize on market dislocations arising from periodic supply/demand imbalances. Ongoing regulatory and capital pressures are also creating opportunities across the sector, particularly for structured asset carve-outs and start-ups, where our team has a great deal of experience.",
+                "navName":"Case Study",
+                "primaryLink":[
+                    {
+                        "primaryLinkName":"Meet the Financial Services Team",
+                        "primaryLinkPath":"primaryLinkPath"
+                    }
+                ],
+                "links":[
+                    {
+                        "linkName":"Victory Capital",
+                        "linkPath":"#"
+                    }
+                ]
+            },
+            {
+                "caseTitle":"Media",
+                "description":"Our team has extensive experience as operators and investors in media. This experience spans more than four decades and numerous industry cycles. As a result of this experience, we benefit from a deep relationship network, which enables us to source proprietary investments. Our investment focus includes distribution, communications infrastructure, content, equipment and services. We are focused on finding value in sub-sectors that are undergoing actual or perceived dislocations caused by new technologies, changing consumer preferences and economic cycles. We also seek to invest in companies that will be direct or indirect beneficiaries of growing data, video and communications consumption.",
+                "navName":"Case Studies",
+                "primaryLink":[
+                    {
+                        "primaryLinkName":"Meet the Financial Services Team",
+                        "primaryLinkPath":"primaryLinkPath"
+                    }
+                ],
+                "links":[
+                    {
+                        "linkName":"Camping World Holdings",
+                        "linkPath":"#"
+                    },
+                    {
+                        "linkName":"Charter Communications",
+                        "linkPath":"#"
+                    }
+                ]
+            }
+        ]
+      },
+      {
+        "title": "Industry Expertise",
+        "details":[
+            {
+                "caseTitle":"Media",
+                "description":"Our team has extensive experience as operators and investors in media. This experience spans more than four decades and numerous industry cycles. As a result of this experience, we benefit from a deep relationship network, which enables us to source proprietary investments. Our investment focus includes distribution, communications infrastructure, content, equipment and services. We are focused on finding value in sub-sectors that are undergoing actual or perceived dislocations caused by new technologies, changing consumer preferences and economic cycles. We also seek to invest in companies that will be direct or indirect beneficiaries of growing data, video and communications consumption.",
+                "navName":"Case Studies",
+                "primaryLink":[
+                    {
+                        "primaryLinkName":"Meet the Financial Services Team",
+                        "primaryLinkPath":"primaryLinkPath"
+                    }
+                ],
+                "links":[
+                    {
+                        "linkName":"Camping World Holdings",
+                        "linkPath":"#"
+                    },
+                    {
+                        "linkName":"Charter Communications",
+                        "linkPath":"#"
+                    }
+                ]
+            },
+            {
+                "caseTitle":"Media",
+                "description":"Our team has extensive experience as operators and investors in media. This experience spans more than four decades and numerous industry cycles. As a result of this experience, we benefit from a deep relationship network, which enables us to source proprietary investments. Our investment focus includes distribution, communications infrastructure, content, equipment and services. We are focused on finding value in sub-sectors that are undergoing actual or perceived dislocations caused by new technologies, changing consumer preferences and economic cycles. We also seek to invest in companies that will be direct or indirect beneficiaries of growing data, video and communications consumption.",
+                "navName":"Case Studies",
+                "primaryLink":[
+                    {
+                        "primaryLinkName":"Meet the Financial Services Team",
+                        "primaryLinkPath":"primaryLinkPath"
+                    }
+                ],
+                "links":[
+                    {
+                        "linkName":"Camping World Holdings",
+                        "linkPath":"#"
+                    },
+                    {
+                        "linkName":"Charter Communications",
+                        "linkPath":"#"
+                    }
+                ]
+            },
+            {
+                "caseTitle":"Media",
+                "description":"Our team has extensive experience as operators and investors in media. This experience spans more than four decades and numerous industry cycles. As a result of this experience, we benefit from a deep relationship network, which enables us to source proprietary investments. Our investment focus includes distribution, communications infrastructure, content, equipment and services. We are focused on finding value in sub-sectors that are undergoing actual or perceived dislocations caused by new technologies, changing consumer preferences and economic cycles. We also seek to invest in companies that will be direct or indirect beneficiaries of growing data, video and communications consumption.",
+                "navName":"Case Studies",
+                "primaryLink":[
+                    {
+                        "primaryLinkName":"Meet the Financial Services Team",
+                        "primaryLinkPath":"primaryLinkPath"
+                    }
+                ],
+                "links":[
+                    {
+                        "linkName":"Camping World Holdings",
+                        "linkPath":"#"
+                    },
+                    {
+                        "linkName":"Charter Communications",
+                        "linkPath":"#"
+                    }
+                ]
+            }
+        ]
+      }
+    ]
+}

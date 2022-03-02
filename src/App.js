@@ -5,10 +5,11 @@ import {
   Route,
 } from "react-router-dom";
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import { HOME } from './routes/routes.ts'
+import { HOME, FIRM } from './routes/routes.ts'
 import Header from './components/header/header.tsx'
 import Footer from './components/footer/footer.tsx'
-import Home from './components/home/home.tsx';
+import Home from './components/homePage/home.tsx';
+import FirmPage from './components/firmPage/firmPage.tsx'
 
 const theme = createTheme({
   typography: {
@@ -41,6 +42,7 @@ function App() {
         <Header/>
           <Routes>
               <Route path={HOME} element={<Home />} />
+              <Route path={FIRM} element={<FirmPage />} />
           </Routes>
         <Footer/>
       </BrowserRouter>

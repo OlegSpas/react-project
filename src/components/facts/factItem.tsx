@@ -19,7 +19,8 @@ export default function FactItem(props:IProps) {
         <Card  
         sx={{
             backgroundColor:"inherit",
-            boxShadow:0
+            boxShadow:0,
+            width:{xs:'100',xl:'90%'}
         }}>
             <CardContent sx={{
                 paddingTop:0
@@ -30,7 +31,7 @@ export default function FactItem(props:IProps) {
                     sx={{
                         color:'#fff',
                         fontSize:{xs:'18px',md:'20px'},
-                        height:'60px',
+                        height:{xs:'80px',lg:'60px'},
                         width:'80%',
                         display:'flex',
                         alignItems:'flex-end',

@@ -9,7 +9,6 @@ export default function NewsList() {
   return (
     <Container maxWidth='xl' sx={{
       marginTop:'5%',
-      marginBottom:'5%',
       display:'flex',
       alignItems:'center',
       height:{md:'350px',lg:'250px'}

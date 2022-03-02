@@ -12,28 +12,23 @@ interface IProps {
 
 const useStyles = makeStyles(theme => ({
     headerLink:{
-        borderTop:'2px solid rgba(220,220,220,0.3)',
-        alignItems:'left',
+        alignItems:'center',
         borderRadius:0,
         height: 50,
-        width:230,
-        display:'block',
+        display:'flex',
         paddingTop: '5px',
         fontSize:'18px',
         fontWeight:700,
         textDecoration: 'none',
         color:"#FFF",
-        transition: 'border-color 200ms ease',
-        '&:hover':{
-            borderTop:'2px solid #fff'
-        },
+        marginRight:'5%',
+
 
         [theme.breakpoints.down('xl')]: {
             borderTop: '0px solid rgba(220,220,220,0.3)',
             '&:hover':{
                 borderTop:'2px solid #fff'
-            },
-            width:'auto',
+            }
           },
           
         [theme.breakpoints.down('lg')]: {
@@ -49,11 +44,11 @@ const useStyles = makeStyles(theme => ({
 function NavigationButton (props:IProps) {
     const classes = useStyles();
 	return (
-        <Grid item xl={4} lg={2}>
+        // <Grid item xl={2} lg={2}>
             <Link className={classes.headerLink} to={props.path}>
                 {props.buttonText}
             </Link>   
-        </Grid>
+        // </Grid>
 	)
 }
 

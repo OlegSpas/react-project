@@ -3,8 +3,11 @@ import { Grid, Container, Divider, Typography,Card, CardContent, } from '@mui/ma
 import HighlightData from '../../fakeData/hightlightData.json';
 import HightlightItem from './highlightItem.tsx';
 
+interface IProps{
+  hightlightsLength:number;
+}
 
-export default function Hightlights() {
+export default function Hightlights(props:IProps) {
 
   return (
     <Container maxWidth='xl' sx={{
@@ -12,7 +15,8 @@ export default function Hightlights() {
       marginBottom:'5%',
       display:'flex',
       alignItems:'center',
-      height:{md:'400px',lg:'250px'}
+      height:{md:'400px',lg:'250px'},
+      padding:{xs:'0 2%', sm:'0% 2%', md:'35% 2%', lg:'20% 0'}
     }}>
       <Grid container spacing={4}>
         <Grid item sm={7}md={3}> 
@@ -50,7 +54,7 @@ export default function Hightlights() {
           </Card>
         </Grid>
         <Grid container  item xs={12} md={9}>
-        {HighlightData.hightlights.map((item, index) => (
+        {HighlightData.hightlights.slice(0,props.hightlightsLength).map((item, index) => (
           <HightlightItem key={index} {...item}/>
         ))}
         </Grid>

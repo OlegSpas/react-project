@@ -3,7 +3,7 @@ import * as React from 'react';
 import FactsData from '../../fakeData/factData.json';
 import FactItem from './factItem.tsx';
 
-export default function Home() {
+export default function Facts() {
   return (
     <Paper sx={{
       backgroundColor:'#497e9c',
