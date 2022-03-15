@@ -59,7 +59,7 @@ export default function ExpertiseTextBlock(props:IProps) {
             display:{xs:'flex', lg:'block'},
             flexDirection:'column',
             width:{xs:'100%',lg:'auto'},
-            marginBottom:{xs:"30%", sm:'10% 0',lg:0},
+            marginBottom:{xs:"20%", sm:'10%',lg:0},
             marginTop:{xs:'5%', sm:0}
         }}>
             <Typography

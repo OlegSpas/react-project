@@ -16,7 +16,7 @@ export default function Hightlights(props:IProps) {
       display:'flex',
       alignItems:'center',
       height:{md:'400px',lg:'250px'},
-      padding:{xs:'0 2%', sm:'0% 2%', md:'35% 2%', lg:'20% 0'}
+      padding:{xs:'0 2%', sm:'0% 2%', md:'35% 2%', lg:'17% 0'}
     }}>
       <Grid container spacing={4}>
         <Grid item sm={7}md={3}> 
