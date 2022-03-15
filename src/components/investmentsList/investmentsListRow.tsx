@@ -14,11 +14,9 @@ interface IProps{
 
 export default function Row(props: IProps) {
   const [open, setOpen] = React.useState(false);
-  const [display, setDisplay] = React.useState('block');
   const [opacity, setOpacity] = React.useState('1');
 
   const handleClick = () => {
-    {open ? setDisplay('block') : setDisplay('none')};
     {open ? setOpacity('1') : setOpacity('0')};
     setOpen(!open);
   } 

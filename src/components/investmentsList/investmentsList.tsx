@@ -133,8 +133,6 @@ function EnhancedTableHead(props: EnhancedTableProps) {
 export default function InvestmentsList() {
   const [order, setOrder] = React.useState<Order>('asc');
   const [orderBy, setOrderBy] = React.useState<keyof IInvestmentsData>('name');
-  const [page, setPage] = React.useState(0);
-  const [rowsPerPage, setRowsPerPage] = React.useState(10);
 
   const handleRequestSort = (
     event: React.MouseEvent<unknown>,
@@ -144,9 +142,6 @@ export default function InvestmentsList() {
     setOrder(isAsc ? 'desc' : 'asc');
     setOrderBy(property);
   };
-
-  const emptyRows =
-    page > 0 ? Math.max(0, (1 + page) * rowsPerPage - InvestmentsData.investments.length) : 0;
 
 
   return (
@@ -174,11 +169,6 @@ export default function InvestmentsList() {
                       <Row key={row.name} {...row} />
                     )
                   })}
-                {emptyRows > 0 && (
-                  <TableRow>
-                    <TableCell colSpan={6} />
-                  </TableRow>
-                )}
               </TableBody>
             </Table>
           </TableContainer>

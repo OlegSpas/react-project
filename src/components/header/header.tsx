@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { AppBar, Box, Toolbar, IconButton, Menu, Container, Grid, Button } from '@mui/material';
+import { AppBar, Box, Toolbar, IconButton, Menu, Container, Button } from '@mui/material';
 import NavigationButton from '../layout/navButtons.tsx';
 import MenuIcon from '@mui/icons-material/Menu';
 import { Routes } from '../../routes/navRoutes.ts';

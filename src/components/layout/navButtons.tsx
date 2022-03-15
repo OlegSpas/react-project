@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Grid } from '@mui/material';
 import { makeStyles } from '@mui/styles';
 
 
@@ -44,11 +43,9 @@ const useStyles = makeStyles(theme => ({
 function NavigationButton (props:IProps) {
     const classes = useStyles();
 	return (
-        // <Grid item xl={2} lg={2}>
             <Link className={classes.headerLink} to={props.path}>
                 {props.buttonText}
             </Link>   
-        // </Grid>
 	)
 }
 
