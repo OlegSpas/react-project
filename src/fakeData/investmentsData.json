@@ -1,0 +1,58 @@
+{
+    "investments": [
+      {
+        "name": "Accuride Corporation",
+        "industry": "Financial services",
+        "status": "Realized",
+        "description" : "Accuride supplies steel and aluminum wheels and wheel-end components for commercial vehicle OEM, fleet and aftermarket customers.",
+        "location" : "Evansville, IN",
+        "logo" : "investmentLogos/investmentLogo1.png",
+        "webSite" : "#"
+      },
+      {
+        "name": "Arxis Capital Group",
+        "industry": "Industrials",
+        "status": "Realized",
+        "description" : "Accuride supplies steel and aluminum wheels and wheel-end components for commercial vehicle OEM, fleet and aftermarket customers.",
+        "location" : "Evansville, IN",
+        "logo" : "investmentLogos/arxis.png",
+        "webSite" : "#"
+      },
+      {
+        "name": "ATC Drivetrain",
+        "industry": "Financial services",
+        "status": "Current Portfolio",
+        "description" : "Accuride supplies steel and aluminum wheels and wheel-end components for commercial vehicle OEM, fleet and aftermarket customers.",
+        "location" : "Evansville, IN",
+        "logo" : "investmentLogos/drivetrain.png",
+        "webSite" : "#"
+      },
+      {
+        "name": "Camping World Holdings",
+        "industry": "Media",
+        "status": "Realized",
+        "description" : "Accuride supplies steel and aluminum wheels and wheel-end components for commercial vehicle OEM, fleet and aftermarket customers.",
+        "location" : "Evansville, IN",
+        "logo" : "investmentLogos/campingworld.jpg",
+        "webSite" : "#"
+      },
+      {
+        "name": "Capital Bank Financial",
+        "industry": "Media",
+        "status": "Current Portfolio",
+        "description" : "Accuride supplies steel and aluminum wheels and wheel-end components for commercial vehicle OEM, fleet and aftermarket customers.",
+        "location" : "Evansville, IN",
+        "logo" : "investmentLogos/capitalbank.png",
+        "webSite" : "#"
+      },
+      {
+        "name": "Emerald EMS",
+        "industry": "Industrials",
+        "status": "Current Portfolio",
+        "description" : "Accuride supplies steel and aluminum wheels and wheel-end components for commercial vehicle OEM, fleet and aftermarket customers.",
+        "location" : "Evansville, IN",
+        "logo" : "investmentLogos/emerald.png",
+        "webSite" : "#"
+      }
+    ]
+  }

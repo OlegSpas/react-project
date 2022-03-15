@@ -5,11 +5,12 @@ import {
   Route,
 } from "react-router-dom";
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import { HOME, FIRM } from './routes/routes.ts'
-import Header from './components/header/header.tsx'
-import Footer from './components/footer/footer.tsx'
+import { HOME, FIRM, INVESTMENTS } from './routes/routes.ts';
+import Header from './components/header/header.tsx';
+import Footer from './components/footer/footer.tsx';
 import Home from './components/homePage/home.tsx';
-import FirmPage from './components/firmPage/firmPage.tsx'
+import FirmPage from './components/firmPage/firmPage.tsx';
+import InvestmentsPage from './components/investmentsPage/investmentsPage.tsx';
 
 const theme = createTheme({
   typography: {
@@ -18,11 +19,6 @@ const theme = createTheme({
       "Courier New",
       "slab-serif"
     ].join(','),
-    overline:{
-      fontSize: '16px',
-      lineHeight: 1.2,
-      fontWeight: 700,
-    }
   },
   breakpoints: {
     values: {
@@ -43,6 +39,7 @@ function App() {
           <Routes>
               <Route path={HOME} element={<Home />} />
               <Route path={FIRM} element={<FirmPage />} />
+              <Route path={INVESTMENTS} element={<InvestmentsPage/>}/>
           </Routes>
         <Footer/>
       </BrowserRouter>

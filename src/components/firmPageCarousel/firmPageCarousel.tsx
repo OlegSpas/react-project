@@ -1,6 +1,6 @@
 import React from 'react';
 import Carousel from 'react-material-ui-carousel';
-import FirmPageCarouselItem from '../firmPageCarousel/firmPageCarouselItem.tsx'
+import FirmPageCarouselItem from '../firmPageCarousel/firmPageCarouselItem.tsx';
 import FirmHeroImg1 from '../../images/firmHeroBackground.jpg';
 import FirmHeroImg2 from '../../images/firmHeroBackground2.jpg';
 import FirmHeroMobileImg1 from '../../images/firmHeroMobileBackground.jpg';
