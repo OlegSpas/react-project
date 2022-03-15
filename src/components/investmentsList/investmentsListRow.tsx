@@ -17,7 +17,7 @@ export default function Row(props: IProps) {
   const [opacity, setOpacity] = React.useState('1');
 
   const handleClick = () => {
-    {open ? setOpacity('1') : setOpacity('0')};
+    open ? setOpacity('1') : setOpacity('0');
     setOpen(!open);
   } 
 
