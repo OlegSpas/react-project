@@ -8,7 +8,7 @@ import TeamListData from '../../fakeData/teamList.json';
   const [typeMembers, setTypeMembers] = React.useState('All Team Members');
   const [industry, setIndustry] = React.useState('All Industries');
   const [foundTeams, setFoundTeams] = React.useState(TeamListData.team);
-  const [teams, setTeams]  = React.useState(TeamListData.team);
+  const teams = TeamListData.team;
 
   const filterTeams = (keyword:string) => {
     const results = teams.filter((user) => {

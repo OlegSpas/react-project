@@ -5,7 +5,7 @@ import {
   Route,
 } from "react-router-dom";
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import { HOME, FIRM, INVESTMENTS, CASESTUDIES, TEAM } from './routes/routes.ts';
+import { HOME, FIRM, INVESTMENTS, TEAM } from './routes/routes.ts';
 import Header from './components/header/header.tsx';
 import Footer from './components/footer/footer.tsx';
 import Home from './components/homePage/home.tsx';
