@@ -14,7 +14,7 @@ interface IProps{
     links:{
         linkName:string;
         linkPath:string;
-    }[]
+    }[];
 }
 
 

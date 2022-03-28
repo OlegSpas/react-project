@@ -28,3 +28,20 @@ interface HeadCell {
 	label: string;
 	numeric: boolean;
   }
+
+interface IMember  {
+	id:number;
+	industry?:string;
+	name: string;
+	job:string;
+	description:string;
+	biography:string;
+	avatar:any;
+	smallAvatar:any;
+}  
+
+interface  ITeam {
+	typeMembers:string,
+	isTeamHeads:boolean,
+	membersList:IMember []
+}

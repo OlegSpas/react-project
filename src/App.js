@@ -5,12 +5,13 @@ import {
   Route,
 } from "react-router-dom";
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import { HOME, FIRM, INVESTMENTS } from './routes/routes.ts';
+import { HOME, FIRM, INVESTMENTS, CASESTUDIES, TEAM } from './routes/routes.ts';
 import Header from './components/header/header.tsx';
 import Footer from './components/footer/footer.tsx';
 import Home from './components/homePage/home.tsx';
 import FirmPage from './components/firmPage/firmPage.tsx';
 import InvestmentsPage from './components/investmentsPage/investmentsPage.tsx';
+import TeamPage from './components/TeamPage/teamPage.tsx';
 
 const theme = createTheme({
   typography: {
@@ -40,6 +41,8 @@ function App() {
               <Route path={HOME} element={<Home />} />
               <Route path={FIRM} element={<FirmPage />} />
               <Route path={INVESTMENTS} element={<InvestmentsPage/>}/>
+              {/* <Route path={CASESTUDIES} element={<CaseStudiesPage/>}/> */}
+              <Route path={TEAM} element={<TeamPage/>}/>
           </Routes>
         <Footer/>
       </BrowserRouter>

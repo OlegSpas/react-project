@@ -10,3 +10,9 @@
         display: none;
     }
 }
+
+.css-1rxz5jq-MuiSelect-select-MuiInputBase-input-MuiInput-input:focus,
+.css-1rm82d9-MuiButtonBase-root-MuiMenuItem-root.Mui-selected,
+.css-11ncml1-MuiButtonBase-root-MuiMenuItem-root.Mui-selected:hover{
+    background-color: #fff !important;
+}
