@@ -1,0 +1,60 @@
+{
+    "news": [
+      {
+        "id":0,
+        "title": "Crestview Acquires ATC Drivetrain from Marlin Equity Partners",
+        "description":"ATC Drivetrain today announced that funds managed by Crestview Advisors, L.L.C., together with members of ATC management, have completed the acquisition of the Company from Marlin Equity Partners.",
+        "date": "Feb 06, 2018",
+        "link":"#"
+      },
+      {
+        "id":1,
+        "title": "Victory Capital Announces Pricing of Initial Public Offering",
+        "description":"Victory Capital Holdings, Inc. today announced the pricing of its initial public offering of 11,700,000 shares of its Class A common stock at a public offering price of $13.00 per share.",
+        "date": "Feb 07, 2018",
+        "link":"#"
+      },
+      {
+        "id":2,
+        "title": "GTT to Acquire Interoute",
+        "description":"GTT Communications, Inc., the leading global cloud networking provider to multinational clients, announced today a definitive purchase agreement to acquire Interoute, operator of one of Europe’s largest independent fiber networks and cloud networking platforms, for approximately €1.9 billion ($2.3 billion) in cash.",
+        "date": "Feb 26, 2018",
+        "link":"#"
+      },
+      {
+        "id":3,
+        "title": "Victory Capital Reports Acquisition of USAA Asset Management Company on Track, and Announces Termination of Agreement to Acquire Harvest Volatility",
+        "description":"Victory Capital Holdings, Inc. today reported that its planned acquisition of USAA Asset Management Company, which includes USAA's Mutual Fund and ETF businesses and its 529 College Savings Plan, is on target and expected to clise effectively July 1, 2019.",
+        "date": "Apr 22, 2019",
+        "link":"#"
+      },
+      {
+        "id":4,
+        "title": "Crestview Partners Sells JR Automation to Hitachi for $1.425 Billion",
+        "description":"Crestview Partners and Hitachi, Ltd. today announced that they have entered into a definitive agreement for Hitachi to acquire JR Automation Technologies, LLC ('JR') for $1.425 billion. JR is a leading provider of intelligent automated manufacturing and distribution technology solutions headquartered in Holland, Michigan.",
+        "date": "Apr 23, 2020",
+        "link":"#"
+      },
+      {
+        "id":5,
+        "title": "Fidelis Raises $500mn of New Equity to Support Growth",
+        "description":"Fidelis has conducted its second equity raise of the year, bringing in $500mn of new capital and taking the company to almost twice the size it was a year ago, as it tools up to support growth into a hardening market.",
+        "date": "Jun 10, 2021",
+        "link":"#"
+      },
+      {
+        "id":6,
+        "title": "Victory Capital Receives High Honors in Barron’s Best Fund Families of 2021",
+        "description":"Victory Funds Ranked 8th and USAA® Mutual Funds Ranked 14th Overall",
+        "date": "Feb 22, 2022",
+        "link":"#"
+      },
+      {
+        "id":7,
+        "title": "Sony Pictures Television to Acquire Industrial Media",
+        "description":"Acquisition Significantly Expands the Studio’s Footprint and Capabilities in Nonfiction & Documentary Television Production",
+        "date": "Mar 03, 2022",
+        "link":"#"
+      }
+    ]
+  }
