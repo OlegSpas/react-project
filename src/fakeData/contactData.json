@@ -1,0 +1,31 @@
+{
+    "contacts": [
+      {
+        "title": "Contact Us:",
+        "phoneNumber":"(212) 906-0700",
+        "details":[
+            {
+                "detail":"590 Madison Avenue"
+            },
+            {
+                "detail":"42nd Floor"
+            },
+            {
+                "detail":"New York, NY 10022"
+            }
+        ]
+      },
+      {
+        "title": "Media Queries:",
+        "phoneNumber":"(212) 521-4815",
+        "details":[
+            {
+                "detail":"Jeffrey Taufield"
+            },
+            {
+                "detail":"Kekst & Company"
+            }
+        ]
+      }
+    ]
+  }
