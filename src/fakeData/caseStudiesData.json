@@ -1,0 +1,120 @@
+{
+    "caseStudies": [
+      {
+        "id":0,
+        "caseName": "Camping World Holdings",
+        "descriptopn":"Camping World Holdings is a leading operator in the RV industry. Camping World is a multi-store dealership and retailer of RVs and outdoor accessories. It also provides financing, insurance, extended warranties, roadside assistance and clubs to RV owners.",
+        "logo" : "caseStudies/campingWorld.jpg",
+        "path":"#",
+        "industry":"Media",
+        "location":"Lincolnshire, IL",
+        "status":"Current Portfolio",
+        "webSite":"https://www.campingworld.com/",
+        "feedback":"Crestview became a partner at a critical juncture. We wouldn't be where we are today without their support and leadership.",
+        "feedbackBG":"caseStudiesFeedback/CampingWorldBigIMG.jpg",
+        "feedbackIMG":"caseStudiesFeedback/CampingWorldSmallIMG.jpg",
+        "feedbackPerson":"Marcus Lemonis, Chairman & CEO",
+        "highLights":[
+            {
+                "title":"Investing at the right point in the cycle",
+                "description":"Crestview invested when the RV market was still suffering the effects of the global financial crisis. Unit sales fell by almost 50% during the crisis, before improving modestly in 2010. Camping World needed to refinance near-term debt maturities in a difficult environment. We proposed a unique investment structure that met the founder's needs and gave our funds significant downside protection through structural seniority and cash interest payments."
+            },
+            {
+                "title":"Re-aligning the business to drive growth",
+                "description":"Crestview unified the management team to run Camping World’s three businesses as a single company. Crestview helped management consolidate operations and divest non-core assets, which created cost savings and cross-selling revenue synergies. Crestview also helped the company with a wholesale refinancing that simplified the capital structure and reduced interest costs."
+            },
+            {
+                "title":"Devising a strategy to drive share gains",
+                "description":"Crestview invested when the RV market was still suffering the effects of the global financial crisis. Unit sales fell by almost 50% during the crisis, before improving modestly in 2010. Camping World needed to refinance near-term debt maturities in a difficult environment. We proposed a unique investment structure that met the founder's needs and gave our funds significant downside protection through structural seniority and cash interest payments."
+            }
+        ]
+      },
+      {
+        "id":1,
+        "caseName": "Charter Communications",
+        "descriptopn":"At the time of Crestview's exit, Charter was the fourth-largest cable operator in the United States. It offers traditional cable video programming, high-speed Internet, broadband cable, telephone and other services to residential and consumer customers.",
+        "logo" : "caseStudies/charter.png",
+        "path":"#",
+        "industry":"Media",
+        "location":"Lincolnshire, IL",
+        "status":"Current Portfolio",
+        "webSite":"https://www.campingworld.com/",
+        "feedback":"Crestview became a partner at a critical juncture. We wouldn't be where we are today without their support and leadership.",
+        "feedbackBG":"caseStudiesFeedback/CampingWorldBigIMG.jpg",
+        "feedbackIMG":"caseStudiesFeedback/CampingWorldSmallIMG.jpg",
+        "feedbackPerson":"Marcus Lemonis, Chairman & CEO",
+        "highLights":[
+            {
+                "title":"Investing at the right point in the cycle",
+                "description":"Crestview invested when the RV market was still suffering the effects of the global financial crisis. Unit sales fell by almost 50% during the crisis, before improving modestly in 2010. Camping World needed to refinance near-term debt maturities in a difficult environment. We proposed a unique investment structure that met the founder's needs and gave our funds significant downside protection through structural seniority and cash interest payments."
+            },
+            {
+                "title":"Re-aligning the business to drive growth",
+                "description":"Crestview unified the management team to run Camping World’s three businesses as a single company. Crestview helped management consolidate operations and divest non-core assets, which created cost savings and cross-selling revenue synergies. Crestview also helped the company with a wholesale refinancing that simplified the capital structure and reduced interest costs."
+            },
+            {
+                "title":"Devising a strategy to drive share gains",
+                "description":"Crestview invested when the RV market was still suffering the effects of the global financial crisis. Unit sales fell by almost 50% during the crisis, before improving modestly in 2010. Camping World needed to refinance near-term debt maturities in a difficult environment. We proposed a unique investment structure that met the founder's needs and gave our funds significant downside protection through structural seniority and cash interest payments."
+            }
+        ]
+      },
+      {
+        "id":2,
+        "caseName": "Key Safety Systems",
+        "descriptopn":"Key Safety Systems is a leading global automotive safety supplier, including airbags, seatbelts, steering wheels and active safety accident avoidance technology.",
+        "logo" : "caseStudies/kss.png",
+        "path":"#",
+        "industry":"Industrials",
+        "location":"Lincolnshire, IL",
+        "status":"Current Portfolio",
+        "webSite":"https://www.campingworld.com/",
+        "feedback":"Crestview became a partner at a critical juncture. We wouldn't be where we are today without their support and leadership.",
+        "feedbackBG":"caseStudiesFeedback/CampingWorldBigIMG.jpg",
+        "feedbackIMG":"caseStudiesFeedback/CampingWorldSmallIMG.jpg",
+        "feedbackPerson":"Marcus Lemonis, Chairman & CEO",
+        "highLights":[
+            {
+                "title":"Investing at the right point in the cycle",
+                "description":"Crestview invested when the RV market was still suffering the effects of the global financial crisis. Unit sales fell by almost 50% during the crisis, before improving modestly in 2010. Camping World needed to refinance near-term debt maturities in a difficult environment. We proposed a unique investment structure that met the founder's needs and gave our funds significant downside protection through structural seniority and cash interest payments."
+            },
+            {
+                "title":"Re-aligning the business to drive growth",
+                "description":"Crestview unified the management team to run Camping World’s three businesses as a single company. Crestview helped management consolidate operations and divest non-core assets, which created cost savings and cross-selling revenue synergies. Crestview also helped the company with a wholesale refinancing that simplified the capital structure and reduced interest costs."
+            },
+            {
+                "title":"Devising a strategy to drive share gains",
+                "description":"Crestview invested when the RV market was still suffering the effects of the global financial crisis. Unit sales fell by almost 50% during the crisis, before improving modestly in 2010. Camping World needed to refinance near-term debt maturities in a difficult environment. We proposed a unique investment structure that met the founder's needs and gave our funds significant downside protection through structural seniority and cash interest payments."
+            }
+        ]
+      },
+      {
+        "id":3,
+        "caseName": "Victory Capital",
+        "descriptopn":"Victory Capital is an investment management firm operating a next-generation, integrated multi-boutique business model with $132.5 billion in assets under management as of July 31, 2020. Victory Capital serves both institutional and retail investors.",
+        "logo" : "caseStudies/VictoryCapital.png",
+        "path":"#",
+        "industry":"Media",
+        "location":"Lincolnshire, IL",
+        "status":"Current Portfolio",
+        "webSite":"https://www.campingworld.com/",
+        "feedback":"Crestview became a partner at a critical juncture. We wouldn't be where we are today without their support and leadership.",
+        "feedbackBG":"caseStudiesFeedback/CampingWorldBigIMG.jpg",
+        "feedbackIMG":"caseStudiesFeedback/CampingWorldSmallIMG.jpg",
+        "feedbackPerson":"Marcus Lemonis, Chairman & CEO",
+        "highLights":[
+            {
+                "title":"Investing at the right point in the cycle",
+                "description":"Crestview invested when the RV market was still suffering the effects of the global financial crisis. Unit sales fell by almost 50% during the crisis, before improving modestly in 2010. Camping World needed to refinance near-term debt maturities in a difficult environment. We proposed a unique investment structure that met the founder's needs and gave our funds significant downside protection through structural seniority and cash interest payments."
+            },
+            {
+                "title":"Re-aligning the business to drive growth",
+                "description":"Crestview unified the management team to run Camping World’s three businesses as a single company. Crestview helped management consolidate operations and divest non-core assets, which created cost savings and cross-selling revenue synergies. Crestview also helped the company with a wholesale refinancing that simplified the capital structure and reduced interest costs."
+            },
+            {
+                "title":"Devising a strategy to drive share gains",
+                "description":"Crestview invested when the RV market was still suffering the effects of the global financial crisis. Unit sales fell by almost 50% during the crisis, before improving modestly in 2010. Camping World needed to refinance near-term debt maturities in a difficult environment. We proposed a unique investment structure that met the founder's needs and gave our funds significant downside protection through structural seniority and cash interest payments."
+            }
+        ]
+      }
+    ]
+  }

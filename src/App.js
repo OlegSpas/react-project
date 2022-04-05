@@ -5,7 +5,7 @@ import {
   Route,
 } from "react-router-dom";
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import { HOME, FIRM, INVESTMENTS, TEAM, NEWS, CONTACT } from './routes/routes.ts';
+import { HOME, FIRM, INVESTMENTS, TEAM, NEWS, CONTACT, CASESTUDIES } from './routes/routes.ts';
 import Header from './components/header/header.tsx';
 import Footer from './components/footer/footer.tsx';
 import Home from './components/homePage/home.tsx';
@@ -14,6 +14,7 @@ import InvestmentsPage from './components/investmentsPage/investmentsPage.tsx';
 import TeamPage from './components/TeamPage/teamPage.tsx';
 import NewsPage from './components/NewsPage/newsPage.tsx';
 import ContactPage from './components/contactPage/contactPage.tsx';
+import CaseStudiesPage from './components/caseStudiesPage/caseStudiesPage.tsx';
 
 const theme = createTheme({
   typography: {
@@ -43,7 +44,7 @@ function App() {
               <Route path={HOME} element={<Home />} />
               <Route path={FIRM} element={<FirmPage />} />
               <Route path={INVESTMENTS} element={<InvestmentsPage/>}/>
-              {/* <Route path={CASESTUDIES} element={<CaseStudiesPage/>}/> */}
+              <Route path={CASESTUDIES} element={<CaseStudiesPage/>}/>
               <Route path={TEAM} element={<TeamPage/>}/>
               <Route path={NEWS} element={<NewsPage/>}/>
               <Route path={CONTACT} element={<ContactPage/>}/>
