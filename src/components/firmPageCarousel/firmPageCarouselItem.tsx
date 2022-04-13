@@ -110,45 +110,7 @@ function FirmPageCarouselItem(props:IProps){
                     }}>
                         {props.person}
                 </Typography>
-
             </Box>
-            {/* <Box component='div' 
-                sx={{
-                width:{md:'57%',lg:'41.5%'},
-                position:{xs:'static',md:'absolute'},
-                top:'35%',
-                left:'3%',
-                height:'350px',
-                padding: {xs:'8% 2%', md:'0'},
-                backgroundColor:{xs:'#424347',md:'transparent'}
-                }}
-                >
-                <Typography 
-                    variant='inherit'
-                    component="p"
-                    sx={{
-                        color:'#fff',
-                        fontSize:{sm:'32px',lg:'38px'},
-                        fontWeight:400,
-                        lineHeight:{sm:'32px',lg:'38px'},
-                    }}>
-                    {props.description}
-                </Typography>
-                <Typography 
-                variant='inherit'  
-                component="p"
-                sx={{
-                    color:'#fff',
-                    fontSize:'14px',
-                    fontStyle:'italic',
-                    fontWeight:'700',
-                    lineHeight:'18px',
-                    marginTop:'3%' 
-                }}
-                >
-                &mdash;    {props.person}
-                </Typography>
-            </Box> */}
         </Box>
     )
 }
