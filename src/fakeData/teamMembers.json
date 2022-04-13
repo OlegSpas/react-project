@@ -1,0 +1,662 @@
+{
+    "teamMembers": [
+        {
+            "id":0,
+            "industry":null,
+            "name": "Barry Volpert",
+            "job": "Co-Founder & CEO",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":1,
+            "industry":"media",
+            "name": "Brian Cassidy",
+            "job": "Co-President & Partner",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":2,
+            "industry":"industrials",
+            "name": "Alex Rose",
+            "job": "Co-President & Partner",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":3,
+            "industry":"financial services",
+            "name": "Bob Delaney",
+            "job": "Partner",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":4,
+            "industry":"media",
+            "name": "Dan Klipatrick",
+            "job": "Partner",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":5,
+            "industry":null,
+            "name": "Lindsey King",
+            "job": "Partner & Head of Ivestor  Relations",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":6,
+            "industry":null,
+            "name": "Patrick LaValley",
+            "job": "Principial",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":7,
+            "industry":"industrials",
+            "name": "Bradford Williams",
+            "job": "Principial",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":8,
+            "name": "Kirk Benson",
+            "job": "Vice President",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":9,
+            "industry":"financial services",
+            "name": "Ben Rhyne",
+            "job": "Vice President",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":10,
+            "industry":"financial services",
+            "name": "LindSay Rosenstein",
+            "job": "Vice President",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":11,
+            "industry":"media",
+            "name": "Rana Bansal",
+            "job": "Associate",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":12,
+            "industry":null,
+            "name": "Patrick LaValley",
+            "job": "Principial",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":13,
+            "industry":"industrials",
+            "name": "Bradford Williams",
+            "job": "Principial",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":14,
+            "name": "Kirk Benson",
+            "job": "Vice President",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":15,
+            "industry":"financial services",
+            "name": "Ben Rhyne",
+            "job": "Vice President",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":16,
+            "industry":"financial services",
+            "name": "LindSay Rosenstein",
+            "job": "Vice President",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":17,
+            "industry":"media",
+            "name": "Rana Bansal",
+            "job": "Associate",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":18,
+            "industry":null,
+            "name": "Barry Volpert",
+            "job": "Co-Founder & CEO",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":19,
+            "industry":"financial services",
+            "name": "Barry Volpert",
+            "job": "Co-Founder & CEO",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":20,
+            "industry":null,
+            "name": "Barry Volpert",
+            "job": "Co-Founder & CEO",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":21,
+            "industry":null,
+            "name": "Barry Volpert",
+            "job": "Co-Founder & CEO",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":22,
+            "industry":null,
+            "name": "Barry Volpert",
+            "job": "Co-Founder & CEO",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":23,
+            "industry":null,
+            "name": "Barry Volpert",
+            "job": "Co-Founder & CEO",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"33",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"33",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":24,
+            "industry":null,
+            "name": "Barry Volpert",
+            "job": "Co-Founder & CEO",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":25,
+            "industry":"financial services",
+            "name": "Barry Volpert",
+            "job": "Co-Founder & CEO",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":26,
+            "industry":null,
+            "name": "Barry Volpert",
+            "job": "Co-Founder & CEO",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":27,
+            "industry":null,
+            "name": "Barry Volpert",
+            "job": "Co-Founder & CEO",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":28,
+            "industry":null,
+            "name": "Barry Volpert",
+            "job": "Co-Founder & CEO",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"teamAvatars/BarryVolpet.jpg",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"teamAvatars/BarryVolpetSM.jpg",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        },
+        {
+            "id":29,
+            "industry":null,
+            "name": "Barry Volpert",
+            "job": "Co-Founder & CEO",
+            "description":"Barry Volpert co-founded Crestview in 2004. He serves as CEO and is also a partner and chairman of the Investment Committee.",
+            "biography":"Barry Volpert co-founded Crestview in 2004 and is a partner and the CEO, as well as the chairman of the Investment Committee. He specializes in complex and contrarian investment themes arising out of major dislocations or restructurings. Barry retired as a partner of Goldman Sachs in 2003, where he spent 18 years as a co-founder and ultimately co-COO of the global private equity business. Among his responsibilities at Goldman Sachs, Barry led the international private equity business while based in London for six years and founded the mezzanine fund business. Barry is currently a director of Industrial Media, Venerable Holdings and WOW!, and was previously a director of Key Safety Systems, Lancashire, Oxbow Carbon and ValueOptions. He also serves as a member of the Dean’s Advisory Board at Harvard Law School, is a member of the Robert F. Kennedy Human Rights board of directors and an elected council member of the Sagaponack Village Erosion Control District. Barry received a J.D., magna cum laude, from Harvard Law School, where he was an editor of the Law Review. He received an M.B.A., with high distinction, from Harvard Business School, where he was a Baker Scholar. Barry received an A.B., summa cum laude, from Amherst College, where he was elected to Phi Beta Kappa. After graduating from Amherst, he was a Luce Scholar in Singapore working for the Straits Times.",
+            "avatar":"33",
+            "backgroundAvatar":"teamAvatars/BarryVolpertBG.jpg",
+            "smallAvatar":"33",
+            "memberInvestments":[
+                {
+                "investmentsId":0
+                },
+                {
+                "investmentsId":2
+                },
+                {
+                "investmentsId":4
+                }
+            ]
+        }
+    ]
+  }

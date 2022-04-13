@@ -1,6 +1,7 @@
 {
     "investments": [
       {
+        "id":0,
         "name": "Accuride Corporation",
         "industry": "Financial services",
         "status": "Realized",
@@ -10,6 +11,7 @@
         "webSite" : "#"
       },
       {
+        "id":1,
         "name": "Arxis Capital Group",
         "industry": "Industrials",
         "status": "Realized",
@@ -19,6 +21,7 @@
         "webSite" : "#"
       },
       {
+        "id":2,
         "name": "ATC Drivetrain",
         "industry": "Financial services",
         "status": "Current Portfolio",
@@ -28,6 +31,7 @@
         "webSite" : "#"
       },
       {
+        "id":3,
         "name": "Camping World Holdings",
         "industry": "Media",
         "status": "Realized",
@@ -37,6 +41,7 @@
         "webSite" : "#"
       },
       {
+        "id":4,
         "name": "Capital Bank Financial",
         "industry": "Media",
         "status": "Current Portfolio",
@@ -46,6 +51,7 @@
         "webSite" : "#"
       },
       {
+        "id":5,
         "name": "Emerald EMS",
         "industry": "Industrials",
         "status": "Current Portfolio",

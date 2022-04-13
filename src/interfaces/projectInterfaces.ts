@@ -36,8 +36,12 @@ interface IMember  {
 	job:string;
 	description:string;
 	biography:string;
-	avatar:any;
-	smallAvatar:any;
+	avatar?:any;
+	backgroundAvatar:any;
+	smallAvatar?:any;
+	memberInvestments:{
+		investmentsId:number;
+	}[]
 }  
 
 interface  ITeam {

@@ -15,6 +15,7 @@ import TeamPage from './components/TeamPage/teamPage.tsx';
 import NewsPage from './components/NewsPage/newsPage.tsx';
 import ContactPage from './components/contactPage/contactPage.tsx';
 import CaseStudiesPage from './components/caseStudiesPage/caseStudiesPage.tsx';
+import TeamMemberPage from '../src/components/teamMemberPage/teamMemberPage.tsx';
 
 const theme = createTheme({
   typography: {
@@ -48,6 +49,7 @@ function App() {
               <Route path={TEAM} element={<TeamPage/>}/>
               <Route path={NEWS} element={<NewsPage/>}/>
               <Route path={CONTACT} element={<ContactPage/>}/>
+              <Route path={`${TEAM}/:id`} element={<TeamMemberPage/>}/>
           </Routes>
         <Footer/>
       </BrowserRouter>
