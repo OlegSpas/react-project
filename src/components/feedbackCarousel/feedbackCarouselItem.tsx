@@ -4,15 +4,17 @@ import { makeStyles } from '@mui/styles';
 
 
 interface IProps{
-    img: any;
-    mobImage:any;
-    description:string;
-    person:string
+    item:{
+        img: any;
+        mobImage:any;
+        description:string;
+        person:string
+    }
 }
 
 const useStyles = makeStyles(theme => ({
     carouselItem: {
-        backgroundImage: props => `url("${props.img}")`,
+        backgroundImage: props => `url("${props.item.img}")`,
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center",
         backgroundSize: "cover",
@@ -39,7 +41,7 @@ function FeedbackCarouselItem(props:IProps){
             <Box
                 component='img'
                 alt='feedbackImg'
-                src={props.mobImage}
+                src={props.item.mobImage}
                 sx={{
                     display:{xs:'block',md:'none'},
                     width:'100%',
@@ -65,7 +67,7 @@ function FeedbackCarouselItem(props:IProps){
                         fontWeight:400,
                         lineHeight:{sm:'32px',lg:'38px'},
                     }}>
-                    {props.description}
+                    {props.item.description}
                 </Typography>
                 <Typography 
                 variant='inherit'  
@@ -79,7 +81,7 @@ function FeedbackCarouselItem(props:IProps){
                     marginTop:'3%' 
                 }}
                 >
-                &mdash;    {props.person}
+                &mdash;    {props.item.person}
                 </Typography>
             </Box>
         </Box>

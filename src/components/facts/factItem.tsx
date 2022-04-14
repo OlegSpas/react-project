@@ -8,8 +8,10 @@ import { Typography,
 
 
 interface IProps{
-    title:string;
-    description:string;
+    fact:{
+        title:string;
+        description:string;
+    }
 }
 
 export default function FactItem(props:IProps) {
@@ -38,7 +40,7 @@ export default function FactItem(props:IProps) {
                         marginBottom:'2.5%',
                         fontWeight:'700'
                      }}>
-                    {props.title}
+                    {props.fact.title}
                 </Typography>
                 <Divider 
                     sx={{
@@ -56,7 +58,7 @@ export default function FactItem(props:IProps) {
                         marginTop:{xs:'2%',md:'10%'},
                         lineHeight:{xs:'34px',md:'38px',lg:'54px'},
                     }}>
-                    {props.description}
+                    {props.fact.description}
                 </Typography>
             </CardContent>
         </Card>

@@ -201,7 +201,7 @@ export default function NewsListComponent() {
           }}>
             {filteredNews?(
               filteredNews.sort((a, b) => a.id < b.id ? 1 : -1).slice(0, viewedNews).map((newsCard,index) => (
-                <NewsListCard key={index} {...newsCard}/>
+                <NewsListCard key={index} newsCard={newsCard}/>
                 ))
               ) : (
               <h1>No results found!</h1>

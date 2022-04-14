@@ -75,3 +75,30 @@ interface ICaseStudy{
 		memberId:number;
 	}[];
 }
+
+interface IExpertise{
+	title:string;
+    details:{
+        caseTitle:string;
+        description:string;
+        navName:string;
+        primaryLink:{
+            primaryLinkName:string;
+            primaryLinkPath:string;
+        }[];
+        links:{
+            linkName:string;
+            linkPath:string;
+        }[]
+    }[]
+}
+
+interface INvestments{
+	industry: string;
+    status: string;
+    name: string;
+    description:string;
+    location:string;
+    logo:string;
+    websSite:string;
+}

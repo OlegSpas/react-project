@@ -44,7 +44,7 @@ export default function NewsList() {
         </Grid>
         <Grid container item md={8} >
         {NewsData.news.map((item, index) => (
-          <NewsListItem key={index} {...item}/>
+          <NewsListItem key={index} item={item}/>
         ))}
         </Grid>
       </Grid>

@@ -5,18 +5,12 @@ import { TEAM } from '../../routes/routes.ts';
 
 
 interface IProps{
-        id:number;
-        name:string;
-        job:string;
-        description:string;
-        biography:string;
-        smallAvatar:any;
-        avatar:any;
+  teamMember:IMember;
 }
 
  export  default function SecondaryTeamMemberCard(props:IProps) {
 
-  const memberPath = props.id;
+  const memberPath = props.teamMember.id;
 
     return(
       <Grid item xs={12}>
@@ -38,7 +32,7 @@ interface IProps{
                         lineHeight:{xs:'24px',lg:'28px'},
                         color:'#424347',
                       }}>
-                        {props.name}
+                        {props.teamMember.name}
                       </Typography>
                   </Grid>
                   <Grid item md={6}
@@ -52,7 +46,7 @@ interface IProps{
                       color:'#424347',
                       textAlign:{md:'center',lg:'left'},
                     }}>
-                      {props.job}
+                      {props.teamMember.job}
                     </Typography>
                   </Grid>
           </Grid>

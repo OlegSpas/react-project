@@ -29,7 +29,7 @@ export default function ContactPageHero() {
             }}>
             {Contacts.contacts.map((card, index) => {
                 return(
-                <ContactCard key={index} {...card} />
+                <ContactCard key={index} card={card} />
                         )
             })}
         </Box>

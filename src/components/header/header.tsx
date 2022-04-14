@@ -77,7 +77,7 @@ const Header = () => {
             </Button>
             {Routes.slice(1,7).map((item:any, index:string) => (
                 <NavigationButton 
-                  {...item} 
+                  item={item} 
                   key={index}
                 />
             ))}
@@ -140,7 +140,7 @@ const Header = () => {
             </Button>
             {Routes.slice(1,7).map((item:any, index:string) => (
                 <NavigationButton
-                  {...item} 
+                  item={item}
                   key={index}
                 />
             ))}

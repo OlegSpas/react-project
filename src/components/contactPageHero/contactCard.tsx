@@ -2,11 +2,13 @@ import { Box, Typography } from '@mui/material';
 import * as React from 'react';
 
 interface IProps{
-    title: string;
-    phoneNumber: string;
-    details: {
-        detail: string;
-    }[];
+    card:{
+        title: string;
+        phoneNumber: string;
+        details: {
+            detail: string;
+        }[];
+    }
 }
 
 export default function ContactCard(props:IProps) {
@@ -21,9 +23,9 @@ export default function ContactCard(props:IProps) {
             fontSize:'16px',
             marginBottom:'5%'
         }}>
-           {props.title}
+           {props.card.title}
        </Typography >
-       {props.details.map((card, index) => {
+       {props.card.details.map((card, index) => {
             return(
                 <Typography key={index} component='p' variant='inherit'
                     sx={{
@@ -38,7 +40,7 @@ export default function ContactCard(props:IProps) {
        <Typography component='p' 
         variant='inherit'
         onClick={() => {
-            window.location.href = `tel:${props.phoneNumber}`;
+            window.location.href = `tel:${props.card.phoneNumber}`;
         }}
         sx={{
             width:'max-content',
@@ -55,7 +57,7 @@ export default function ContactCard(props:IProps) {
             backgroundColor:'transparent'
           } 
         }}>
-           {props.phoneNumber}
+           {props.card.phoneNumber}
        </Typography>
     </Box>
   );

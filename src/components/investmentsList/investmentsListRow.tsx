@@ -3,13 +3,8 @@ import { Button, Grid, TableCell, Typography, TableRow, Collapse, Box } from '@m
 import { Link } from 'react-router-dom';
  
 interface IProps{
-    industry: string;
-    status: string;
-    name: string;
-    description:string;
-    location:string;
-    logo:string;
-    websSite:string;
+    row:  INvestments;
+
 }
 
 export default function Row(props: IProps) {
@@ -42,7 +37,7 @@ export default function Row(props: IProps) {
                         fontWeight:"700",
                         color:'#424347',
                     }}>
-                    {props.name}
+                    {props.row.name}
                 </Typography>
             </TableCell>
             <TableCell  sx={{
@@ -57,7 +52,7 @@ export default function Row(props: IProps) {
                   fontWeight:"400",
                   color:'#424347',
                 }}>
-                  {props.industry}
+                  {props.row.industry}
               </Typography>
             </TableCell>
             <TableCell  sx={{
@@ -72,7 +67,7 @@ export default function Row(props: IProps) {
                   fontWeight:"400",
                   color:'#424347',
                 }}>
-                  {props.status}
+                  {props.row.status}
               </Typography>
             </TableCell>
         </TableRow>
@@ -104,9 +99,9 @@ export default function Row(props: IProps) {
                           width:{xs:'100%',md:'87%'},
                           marginBottom:{xs:'4%',md:0}
                         }}>
-                          {props.description}
+                          {props.row.description}
                         </Typography>
-                        <Link to={{pathname:`/${props.websSite}`}}>
+                        <Link to={{pathname:`/${props.row.websSite}`}}>
                             <Button 
                             sx={{
                               display:{xs:'none', md:'block'},
@@ -150,7 +145,7 @@ export default function Row(props: IProps) {
                               fontSize:{xs:'12px',sm:'14px',xl:'15px'},
                               color:'#424347'
                             }}>
-                              {props.industry}
+                              {props.row.industry}
                             </Typography>
                           </Box>
                           <Box component='div' sx={{
@@ -169,7 +164,7 @@ export default function Row(props: IProps) {
                               fontSize:{xs:'12px',sm:'14px',xl:'15px'},
                               color:'#424347'
                             }}>
-                              {props.location}
+                              {props.row.location}
                             </Typography>
                           </Box>
                           <Box component='div' sx={{
@@ -188,7 +183,7 @@ export default function Row(props: IProps) {
                               fontSize:{xs:'12px',sm:'14px',xl:'15px'},
                               color:'#424347'
                             }}>
-                              {props.status}
+                              {props.row.status}
                             </Typography>
                           </Box>
                       </Grid>
@@ -199,7 +194,7 @@ export default function Row(props: IProps) {
                       }}>
                           <Box
                             component='img' 
-                            src={props.logo}
+                            src={props.row.logo}
                             sx={{
                               marginLeft:{lg:'7%',xl:0},
                               maxHeight:{xs:'60px',sm:'70px'},
@@ -211,7 +206,7 @@ export default function Row(props: IProps) {
                     <Grid item xs={12} md={0} sx={{
                         display:{xs:'block', md:'none'}
                       }}>
-                        <Link to={{pathname:`/${props.websSite}`}}>
+                        <Link to={{pathname:`/${props.row.websSite}`}}>
                             <Button 
                             sx={{
                               borderBottom:'1px solid #619fc0',

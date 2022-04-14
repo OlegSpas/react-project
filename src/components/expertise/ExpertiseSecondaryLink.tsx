@@ -4,8 +4,10 @@ import { Link } from 'react-router-dom';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
  
 interface IProps{
-    linkName:string;
-    linkPath:string;
+    expertiseLink:{
+        linkName:string;
+        linkPath:string;
+    }
 }
 
 
@@ -13,7 +15,7 @@ export default function ExpertiseSecondaryLink(props:IProps) {
 
   return (
     <>
-        <Link to={{pathname:`/${props.linkPath}`}}>
+        <Link to={{pathname:`/${props.expertiseLink.linkPath}`}}>
             <Button sx={{
                 borderBottom:'1px solid #DCDCDC',
                 color:'#424347',
@@ -27,7 +29,7 @@ export default function ExpertiseSecondaryLink(props:IProps) {
                 display:'flex',
                 justifyContent:{xs:'space-between',lg:'flex-start'},
             }} endIcon={<ArrowForwardIcon />}>
-                {props.linkName}
+                {props.expertiseLink.linkName}
             </Button>
         </Link>
     </>

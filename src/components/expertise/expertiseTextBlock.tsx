@@ -4,17 +4,19 @@ import ExpertiseSecondaryLink from './ExpertiseSecondaryLink.tsx';
 import ExpertisePrimaryLink from './expertisePrimaryLink.tsx';
  
 interface IProps{
-    caseTitle:string;
-    description:string;
-    navName:string;
-    primaryLink:{
-        primaryLinkName:string;
-        primaryLinkPath:string;
-    }[];
-    links:{
-        linkName:string;
-        linkPath:string;
-    }[];
+    expertise:{
+        caseTitle:string;
+        description:string;
+        navName:string;
+        primaryLink:{
+            primaryLinkName:string;
+            primaryLinkPath:string;
+        }[];
+        links:{
+            linkName:string;
+            linkPath:string;
+        }[];
+        }
 }
 
 
@@ -37,7 +39,7 @@ export default function ExpertiseTextBlock(props:IProps) {
                         color:'#424347',
                         marginBottom:'1%'
                     }}>
-                    {props.caseTitle}
+                    {props.expertise.caseTitle}
                 </Typography>
                 <Typography 
                     component='p'
@@ -48,10 +50,10 @@ export default function ExpertiseTextBlock(props:IProps) {
                         color:'#424347',
                         marginBottom:'3%'
                     }}>
-                    {props.description}
+                    {props.expertise.description}
                 </Typography>
-                {props.primaryLink.map((item:any, index:number) =>(
-                    <ExpertisePrimaryLink key={index} {...item}/>
+                {props.expertise.primaryLink.map((expertiseLink:any, index:number) =>(
+                    <ExpertisePrimaryLink key={index} expertiseLink={expertiseLink}/>
                 ))}
             </Box>
         </Grid>
@@ -73,10 +75,10 @@ export default function ExpertiseTextBlock(props:IProps) {
                     paddingBottom:{xs:'2%',lg:'5%',},
                     width:{xs:'100%',lg:'77%'}
                 }}>
-                {props.navName}
+                {props.expertise.navName}
             </Typography>
-            {props.links.map((item:any, index:number) => (
-                    <ExpertiseSecondaryLink key={index} {...item}/>
+            {props.expertise.links.map((expertiseLink:any, index:number) => (
+                    <ExpertiseSecondaryLink key={index} expertiseLink={expertiseLink}/>
                     ))}
         </Grid>
     </>

@@ -54,8 +54,8 @@ export default function Hightlights(props:IProps) {
           </Card>
         </Grid>
         <Grid container  item xs={12} md={9}>
-        {HighlightData.hightlights.slice(0,props.hightlightsLength).map((item, index) => (
-          <HightlightItem key={index} {...item}/>
+        {HighlightData.hightlights.slice(0,props.hightlightsLength).map((hightlight, index) => (
+          <HightlightItem key={index} hightlight={hightlight}/>
         ))}
         </Grid>
       </Grid>

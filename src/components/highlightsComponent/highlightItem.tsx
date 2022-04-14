@@ -2,8 +2,10 @@ import * as React from 'react';
 import { Typography, Card, CardContent, Grid } from '@mui/material';
 
 interface IProps{
-    title:string;
-    description:string;
+    hightlight:{
+        title:string;
+        description:string;
+    }
 }
 
 export default function HightlightItem(props:IProps) {
@@ -33,7 +35,7 @@ export default function HightlightItem(props:IProps) {
                         alignItems:'flex-end',
                         marginBotoom:'5%'
                     }}>
-                    {props.title}
+                    {props.hightlight.title}
                 </Typography>
                 <Typography  
                     component='p'
@@ -44,7 +46,7 @@ export default function HightlightItem(props:IProps) {
                         color:'#424347',
                         paddingTop:'3%'
                     }}>
-                    {props.description}
+                    {props.hightlight.description}
                 </Typography>
             </CardContent>
         </Card>

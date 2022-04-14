@@ -30,9 +30,9 @@ export default function Footer() {
                     display:'flex',
                     flexWrap:'wrap'
                 }}>
-                    {Routes.map((item:any, index:any) => (
+                    {Routes.slice(1).map((item:any, index:any) => (
                             <FooterNavButton 
-                                {...item} 
+                                item={item} 
                                 key={index}
                             />
                     ))}

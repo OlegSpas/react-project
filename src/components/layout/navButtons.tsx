@@ -4,8 +4,10 @@ import { makeStyles } from '@mui/styles';
 
 
 interface IProps {
-	buttonText: string;
-	path:string;
+    item:{
+        buttonText: string;
+        path:string;
+    }
 }
 
 
@@ -43,8 +45,8 @@ const useStyles = makeStyles(theme => ({
 function NavigationButton (props:IProps) {
     const classes = useStyles();
 	return (
-            <Link className={classes.headerLink} to={props.path}>
-                {props.buttonText}
+            <Link className={classes.headerLink} to={props.item.path}>
+                {props.item.buttonText}
             </Link>   
 	)
 }

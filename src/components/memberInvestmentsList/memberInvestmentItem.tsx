@@ -4,13 +4,7 @@ import { Link } from 'react-router-dom';
 
 
 interface IProps {
-    industry: string;
-    status: string;
-    name: string;
-    description:string;
-    location:string;
-    logo:string;
-    websSite:string;
+    investment: INvestments;
 }
 
 
@@ -47,7 +41,7 @@ export default function MemberInvestmentItem(props:IProps) {
                             color:'#424347',
                             textAlign:'left'
                         }}>
-                        {props.name}
+                        {props.investment.name}
                     </Typography>
                 </Grid>
                 <Grid item md={6} lg={4} sx={{
@@ -62,7 +56,7 @@ export default function MemberInvestmentItem(props:IProps) {
                     fontWeight:"400",
                     color:'#424347',
                     }}>
-                    {props.industry}
+                    {props.investment.industry}
                 </Typography>
                 </Grid>
                 <Grid item lg={4} sx={{
@@ -77,7 +71,7 @@ export default function MemberInvestmentItem(props:IProps) {
                     fontWeight:"400",
                     color:'#424347',
                     }}>
-                    {props.status}
+                    {props.investment.status}
                 </Typography>
                 </Grid>
             </Grid>
@@ -109,9 +103,9 @@ export default function MemberInvestmentItem(props:IProps) {
                             width:{xs:'100%',md:'87%'},
                             marginBottom:{xs:'4%',md:0}
                             }}>
-                            {props.description}
+                            {props.investment.description}
                             </Typography>
-                            <Link to={{pathname:`/${props.websSite}`}}>
+                            <Link to={{pathname:`/${props.investment.websSite}`}}>
                                 <Button 
                                 sx={{
                                 display:{xs:'none', md:'block'},
@@ -156,7 +150,7 @@ export default function MemberInvestmentItem(props:IProps) {
                                 fontSize:{xs:'14px',sm:'14px',xl:'16px'},
                                 color:'#424347'
                                 }}>
-                                {props.industry}
+                                {props.investment.industry}
                                 </Typography>
                             </Box>
                             <Box component='div' sx={{
@@ -176,7 +170,7 @@ export default function MemberInvestmentItem(props:IProps) {
                                 fontSize:{xs:'14px',sm:'14px',xl:'16px'},
                                 color:'#424347'
                                 }}>
-                                {props.location}
+                                {props.investment.location}
                                 </Typography>
                             </Box>
                             <Box component='div' sx={{
@@ -196,7 +190,7 @@ export default function MemberInvestmentItem(props:IProps) {
                                 fontSize:{xs:'14px',sm:'14px',xl:'16px'},
                                 color:'#424347'
                                 }}>
-                                {props.status}
+                                {props.investment.status}
                                 </Typography>
                             </Box>
                         </Grid>
@@ -207,7 +201,7 @@ export default function MemberInvestmentItem(props:IProps) {
                         }}>
                             <Box
                                 component='img' 
-                                src={`/${props.logo}`}
+                                src={`/${props.investment.logo}`}
                                 sx={{
                                 objectFit:'scale-down',
                                 marginLeft:{lg:'7%',xl:0},
@@ -220,7 +214,7 @@ export default function MemberInvestmentItem(props:IProps) {
                         <Grid item xs={12} md={0} sx={{
                             display:{xs:'block', md:'none'}
                         }}>
-                            <Link to={{pathname:`/${props.websSite}`}}>
+                            <Link to={{pathname:`/${props.investment.websSite}`}}>
                                 <Button 
                                 sx={{
                                 borderBottom:'1px solid #619fc0',

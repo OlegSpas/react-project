@@ -70,7 +70,7 @@ export default function FirmPageCarousel(props:IProps){
             }}
         >
             {
-                items.map( (item, i) => <FirmPageCarouselItem key={i} item={item} {...item}/> )
+                items.map( (item, i) => <FirmPageCarouselItem key={i} item={item}/> )
             }
         </Carousel>
     )

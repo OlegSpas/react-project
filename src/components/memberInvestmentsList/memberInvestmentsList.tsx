@@ -46,8 +46,8 @@ export default function MemberInvestmentsList(props:IProps) {
                     </Typography>
                 </Grid>
             </Grid>
-            {InvestmentsArray.map((item, index) => (
-                <MemberInvestmentItem key={index} {...item}/>
+            {InvestmentsArray.map((investment, index) => (
+                <MemberInvestmentItem key={index} investment={investment}/>
             ))}
           </Container>
       </Box>

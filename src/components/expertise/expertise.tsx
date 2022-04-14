@@ -9,8 +9,8 @@ export default function Expertise() {
     <Container maxWidth='xl' sx={{
         paddingTop:{xs:'30%',sm:'7%'}
       }}>
-        {expertiseData.cases.map((item:any, index:number) => (
-          <ExpertiseItem key={index} index={index} {...item}/>
+        {expertiseData.cases.map((expertise:any, index:number) => (
+          <ExpertiseItem key={index} expertise={expertise}/>
         ))}
     </Container>
   );

@@ -166,7 +166,7 @@ export default function InvestmentsList() {
                 {stableSort(InvestmentsData.investments, getComparator(order, orderBy))
                   .map((row, index) => {
                     return(
-                      <Row key={row.name} {...row} />
+                      <Row key={row.name} row={row} />
                     )
                   })}
               </TableBody>

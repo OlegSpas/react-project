@@ -4,20 +4,14 @@ import { Link } from 'react-router-dom';
 import { TEAM } from '../../routes/routes.ts';
 
 interface IProps{
-        id:number;
-        name:string;
-        job:string;
-        description:string;
-        biography:string;
-        smallAvatar:any;
-        avatar:any;
+  teamMember:IMember;
 }
 
  export  default function TeamMemberCard(props:IProps) {
 
-  const memberPath = props.id;
+  const memberPath = props.teamMember.id;
 
-  if(props.avatar !== null){
+  if(props.teamMember.avatar !== null){
     return (
       <Grid item xs={12}sm={6} sx={{
       }}>
@@ -36,8 +30,8 @@ interface IProps{
         }}>
           <CardMedia
             component="img"
-            image={props.smallAvatar}
-            alt={props.name}
+            image={props.teamMember.smallAvatar}
+            alt={props.teamMember.name}
             sx={{
               minWidth:{xs:'66px', sm:'inherit'},
               maxHeight:{xs:'66px', sm:'inherit'},
@@ -69,7 +63,7 @@ interface IProps{
               lineHeight:{xs:'24px',sm:'20px',md:'24px',lg:'28px'},
               color:'#424347',
             }}>
-              {props.name}
+              {props.teamMember.name}
             </Typography>
             <Typography variant='inherit' component='p' sx={{
               fontWeight:400,
@@ -78,7 +72,7 @@ interface IProps{
               color:'#424347',
               marginTop:{xs:'0%',md:'5%',lg:0}
             }}>
-              {props.job}
+              {props.teamMember.job}
             </Typography>
           </CardContent>
           </Card>

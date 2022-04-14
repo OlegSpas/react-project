@@ -5,8 +5,10 @@ import { makeStyles } from '@mui/styles';
 
 
 interface IProps {
-	buttonText: string;
-	path:string;
+    item:{
+        buttonText: string;
+        path:string;
+    }
 }
 
 const useStyles = makeStyles({
@@ -31,8 +33,8 @@ function FooterNavButton (props:IProps) {
             marginLeft:{xs:'0',lg:"3%"},
             marginRight:{xs:'3%', lg:0}
         }}>
-            <Link to={props.path} className={classes.footerLink}>
-                {props.buttonText}
+            <Link to={props.item.path} className={classes.footerLink}>
+                {props.item.buttonText}
 	        </Link>  
         </Grid>
 	)

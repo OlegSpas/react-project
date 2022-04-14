@@ -21,8 +21,10 @@ const useStyles = makeStyles(theme => ({
 }));
 
 interface IProps{
-    title:string;
-    date: string;
+    item:{
+        title:string;
+        date: string;
+    }
 }
 
 export default function NewsListItem(props:IProps) {
@@ -37,7 +39,7 @@ export default function NewsListItem(props:IProps) {
                 paddingTop:0
             }}>
                 <Link to={{pathname:`/`}} className={classes.newsListTitle}> 
-                    {props.title}
+                    {props.item.title}
                 </Link>
                 <Typography 
                     component='p' 
@@ -49,7 +51,7 @@ export default function NewsListItem(props:IProps) {
                         color:'#424347',
                         marginTop:'7%'
                         }}>
-                    {props.date}
+                    {props.item.date}
                 </Typography>
             </CardContent>
         </Card>

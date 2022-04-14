@@ -4,13 +4,15 @@ import { makeStyles } from '@mui/styles';
 
 
 interface IProps{
-    img: any;
-    description:string;
+    item:{
+        img: any;
+        description:string;
+    }
 }
 
 const useStyles = makeStyles({
     carouselItem: {
-        backgroundImage: props => `url("${props.img}")`,
+        backgroundImage: props => `url("${props.item.img}")`,
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center center",
         backgroundSize: "cover",
@@ -45,7 +47,7 @@ function HomeCarouselItem(props:IProps){
                     right:'15%',
                     display:{xs:'none',  md:'block'}
                 }}>
-                {props.description}
+                {props.item.description}
             </Typography>
         </Box>
     )

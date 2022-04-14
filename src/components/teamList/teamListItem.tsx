@@ -25,8 +25,8 @@ interface IProps{
           sx={{
                 justifyContent:'space-between',
             }}>
-              {props.team.membersList && props.team.membersList.map((item:any, index:number) => (
-                    <TeamMemberCard key={index} {...item}/>
+              {props.team.membersList && props.team.membersList.map((teamMember:any, index:number) => (
+                    <TeamMemberCard key={index} teamMember={teamMember}/>
               ))}
           </Grid>
         </Grid>
@@ -59,8 +59,8 @@ interface IProps{
               columnSpacing={{
                 xs:0,
                 sm:5}}>
-                {props.team.membersList && props.team.membersList.map((item:any, index:number) => (
-                      <TeamMemberCard key={index} {...item}/>
+                {props.team.membersList && props.team.membersList.map((teamMember:any, index:number) => (
+                      <TeamMemberCard key={index} teamMember={teamMember}/>
                 ))}
               </Grid>
           </Grid>
@@ -72,8 +72,8 @@ interface IProps{
         borderTop:'3px solid #000',
         marginTop:'10%'
       }}>
-        {props.team.membersList && props.team.membersList.map((item:any, index:number) => (
-          <SecondaryTeamMemberCard key={index} {...item}/>
+        {props.team.membersList && props.team.membersList.map((teamMember:any, index:number) => (
+          <SecondaryTeamMemberCard key={index} teamMember={teamMember}/>
         ))}
       </Grid>
     )

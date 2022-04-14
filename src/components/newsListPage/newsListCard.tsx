@@ -3,11 +3,13 @@ import { Typography, Grid, Button } from '@mui/material';
 import { Link } from 'react-router-dom';
 
 interface IProps{
-    id:number;
-    title: string;
-    description:  string;
-    date: Date;
-    link: string;
+    newsCard:{
+        id:number;
+        title: string;
+        description:  string;
+        date: Date;
+        link: string;v
+    }
 }
 
 export default function NewsListCard(props:IProps) {
@@ -31,7 +33,7 @@ export default function NewsListCard(props:IProps) {
                   fontWeight:'700',
                   color:'#424347'
               }}>
-                {props.date}
+                {props.newsCard.date}
               </Typography>
           </Grid>
           <Grid item xs={12} lg={9}>
@@ -42,16 +44,16 @@ export default function NewsListCard(props:IProps) {
                 lineHeight:{md:'24px',lg:'28px'},
                 marginBottom:'3%'
             }}>
-                {props.title}
+                {props.newsCard.title}
             </Typography>
             <Typography component='p' variant='inherit' sx={{
                 fontSize:{xs:'16px',sm:'16px',lg:'18px'},
                 lineHeight:{xs:'20px',lg:'22px'},
                 color:'#424347'
             }}>
-                {props.description}
+                {props.newsCard.description}
             </Typography>
-            <Link to={{pathname:`/${props.link}`}}>
+            <Link to={{pathname:`/${props.newsCard.link}`}}>
                 <Button 
                     sx={{
                     borderBottom:'1px solid #619fc0',

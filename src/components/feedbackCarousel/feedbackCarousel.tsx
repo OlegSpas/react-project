@@ -83,7 +83,7 @@ export default function FeedbackCarousel(props:IProps){
             }}
         >
             {
-                items.map( (item, i) => <FeedbackCarouselItem key={i} item={item} {...item}/> )
+                items.map( (item, i) => <FeedbackCarouselItem key={i} item={item}/> )
             }
         </Carousel>
     )

@@ -3,26 +3,12 @@ import { Grid, Divider, Box, Typography } from '@mui/material';
 import ExpertiseTextBlock from './expertiseTextBlock.tsx';
  
 interface IProps{
-    index:number;
-    title:string;
-    details:{
-        caseTitle:string;
-        description:string;
-        navName:string;
-        primaryLink:{
-            primaryLinkName:string;
-            primaryLinkPath:string;
-        }[];
-        links:{
-            linkName:string;
-            linkPath:string;
-        }[]
-    }[]
+    expertise:IExpertise
 }
 
 
 export default function ExpertiseItem(props:IProps) {
-    const currentDetails  = props.details;
+    const currentDetails  = props.expertise.details;
 
   return (
     <Grid container sx={{
@@ -49,15 +35,15 @@ export default function ExpertiseItem(props:IProps) {
                       display:'flex',
                       alignItems:'center'
                     }}>
-                    {props.title}
+                    {props.expertise.title}
                 </Typography>
             </Box>
         </Grid>
         <Grid item container md={9}  sx={{
             marginTop:{xs:'20%',sm:'7%',md:0}
         }}>
-            {currentDetails.map((item:any, index:number) => (
-                <ExpertiseTextBlock key={index} {...item}/>
+            {currentDetails.map((expertise:any, index:number) => (
+                <ExpertiseTextBlock key={index} expertise={expertise}/>
                 ))}
         </Grid>
     </Grid>

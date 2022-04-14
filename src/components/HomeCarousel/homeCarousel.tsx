@@ -65,7 +65,7 @@ export default function HomeCarousel(props:IProps){
                 }
             }}>
             {
-                items.map( (item, i) => <HomeCarouselItem key={i} item={item} {...item}/> )
+                items.map( (item, i) => <HomeCarouselItem key={i} item={item}/> )
             }
         </Carousel>
     )

@@ -4,17 +4,19 @@ import { makeStyles } from '@mui/styles';
 
 
 interface IProps{
-    title:string;
-    subTitle:string;
-    img: any;
-    mobImage:any;
-    description:string;
-    person:string
+    item:{
+        title:string;
+        subTitle:string;
+        img: any;
+        mobImage:any;
+        description:string;
+        person:string
+    }
 }
 
 const useStyles = makeStyles(theme => ({
     carouselItem: {
-        backgroundImage: props => `url("${props.img}")`,
+        backgroundImage: props => `url("${props.item.img}")`,
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center",
         backgroundSize: "cover",
@@ -42,7 +44,7 @@ function FirmPageCarouselItem(props:IProps){
             <Box
                 component='img'
                 alt='feedbackImg'
-                src={props.mobImage}
+                src={props.item.mobImage}
                 sx={{
                     display:{xs:'block',md:'none'},
                     width:'100%',
@@ -68,7 +70,7 @@ function FirmPageCarouselItem(props:IProps){
                         fontWeight:700,
                         marginBottom:'5%'
                     }}>
-                    {props.title}
+                    {props.item.title}
                 </Typography>
                 <Typography
                     component='h2'
@@ -79,7 +81,7 @@ function FirmPageCarouselItem(props:IProps){
                         fontWeight:700,
                         marginBottom:'2%'
                     }}>
-                    {props.subTitle}
+                    {props.item.subTitle}
                 </Typography>
                 <Typography
                 component='p'
@@ -88,7 +90,7 @@ function FirmPageCarouselItem(props:IProps){
                     fontSize:{xs:'12px',sm:'14px',lg:'16px'},
                     lineHeight:{xs:'16px',sm:'18px',lg:'20px'}
                 }}>
-                    {props.description}
+                    {props.item.description}
                 </Typography>
 
             </Box>
@@ -108,7 +110,7 @@ function FirmPageCarouselItem(props:IProps){
                         lineHeight:'20px',
                         fontWeight:'700'
                     }}>
-                        {props.person}
+                        {props.item.person}
                 </Typography>
             </Box>
         </Box>

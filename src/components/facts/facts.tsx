@@ -14,8 +14,8 @@ export default function Facts() {
     }} >
       <Container maxWidth='xl'>
         <Grid container>
-          {FactsData.facts.map((item, i) => (
-              <FactItem  key={i} {...item}/>
+          {FactsData.facts.map((fact, i) => (
+              <FactItem  key={i} fact={fact}/>
           ))}
         </Grid>
     </Container>

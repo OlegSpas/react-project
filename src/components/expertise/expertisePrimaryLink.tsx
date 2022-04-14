@@ -3,8 +3,10 @@ import { Link } from 'react-router-dom';
 import { makeStyles } from '@mui/styles';
  
 interface IProps{
+  expertiseLink:{
     primaryLinkName:string;
     primaryLinkPath:string;
+  }
 }
 
 const useStyles = makeStyles(theme => ({
@@ -33,8 +35,8 @@ export default function ExpertisePrimaryLink(props:IProps) {
 
   return (
     <>
-        <Link to={{pathname:`/${props.primaryLinkPath}`}} className={classes.newsListTitle}>
-            {props.primaryLinkName}
+        <Link to={{pathname:`/${props.expertiseLink.primaryLinkPath}`}} className={classes.newsListTitle}>
+            {props.expertiseLink.primaryLinkName}
         </Link>
     </>
     
