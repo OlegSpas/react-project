@@ -19,10 +19,6 @@ const Header = () => {
     setAnchorElNav(null);
   };
 
-  const handleCloseMenu = () => {
-    setAnchorElNav(false)
-  }
-
   return (
     <AppBar sx={{  
         backgroundColor: { xs: '#fff', lg: '#0F100F' },
