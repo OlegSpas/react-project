@@ -49,3 +49,29 @@ interface  ITeam {
 	isTeamHeads:boolean,
 	membersList:IMember []
 }
+
+interface ICaseStudy{
+	id:0;
+    caseName: string;
+    descriptopn:string;
+    logo : any;
+    path: string;
+    industry: string;
+    location:string;
+    status:string;
+    webSite: string;
+    feedback: string;
+    feedbackBG:any;
+    feedbackIMG:any;
+    feedbackPerson:string;
+    highLights:{
+		title:string;
+		description:string;
+	}[];
+	caseInvestments:{
+		investmentsId:number;
+	}[];
+    caseMembers:{
+		memberId:number;
+	}[];
+}

@@ -13,8 +13,6 @@ export default function HeroTeamMemberPage(props:IProps) {
   const avatar = '/' + props.currentMember.backgroundAvatar;
   const MobileAvatar  = '/' + props.currentMember.avatar;
 
-  console.log(props.currentMember.backgroundAvatar)
-
 
   if(props.currentMember.backgroundAvatar !== null && props.currentMember.smallAvatar !== '33'){
     return (

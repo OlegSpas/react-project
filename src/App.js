@@ -17,6 +17,7 @@ import ContactPage from './components/contactPage/contactPage.tsx';
 import CaseStudiesPage from './components/caseStudiesPage/caseStudiesPage.tsx';
 import TeamMemberPage from '../src/components/teamMemberPage/teamMemberPage.tsx';
 import TermsOfUse from './components/termsOfUsePage/termsOfUsePage.tsx';
+import CaseStudyPage from './components/caseStudyPage/caseStudyPage.tsx';
 
 const theme = createTheme({
   typography: {
@@ -52,6 +53,7 @@ function App() {
               <Route path={CONTACT} element={<ContactPage/>}/>
               <Route path={`${TEAM}/:id`} element={<TeamMemberPage/>}/>
               <Route path={TERMS} element={<TermsOfUse/>}/>
+              <Route path={`${CASESTUDIES}/:id`} element={<CaseStudyPage/>}/>
           </Routes>
         <Footer/>
       </BrowserRouter>

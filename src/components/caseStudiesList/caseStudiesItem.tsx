@@ -69,7 +69,7 @@ export default function CaseStudiesItem(props:IProps) {
                 }}> 
                     {props.item.descriptopn}
                 </Typography>
-                <Link to={{pathname:`/${props.item.path}`}}>
+                <Link to={{pathname:`${props.item.id}`}}>
                 <Button 
                     sx={{
                     borderBottom:'1px solid #619fc0',
@@ -89,7 +89,7 @@ export default function CaseStudiesItem(props:IProps) {
                     }}>
                     View case study
                 </Button>
-            </Link>
+                </Link>
             </Grid>
             <Grid item md={5} lg={3}
             sx={{
@@ -112,7 +112,7 @@ export default function CaseStudiesItem(props:IProps) {
             <Grid item xs={12} md={0} sx={{
                 display:{xs:'block', md:'none'}
               }}>
-                <Link to={{pathname:`/${props.item.path}`}}>
+                <Link to={{pathname:`${props.item.id}`}}>
                     <Button 
                         sx={{
                           borderBottom:'1px solid #619fc0',
