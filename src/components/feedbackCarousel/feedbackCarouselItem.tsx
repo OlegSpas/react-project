@@ -68,7 +68,6 @@ function FeedbackCarouselItem(props:IProps){
                     {props.description}
                 </Typography>
                 <Typography 
-                // className={classes.feedbackPerson} 
                 variant='inherit'  
                 component="p"
                 sx={{

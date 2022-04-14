@@ -41,7 +41,6 @@ export default function FirmPageCarousel(props:IProps){
             sx={{
                 position:'relative',
                 maxHeight:{xs:"500px", sm:'650px',md:'800px'},
-                // height:{sm:'100vh'}   
             }}
             indicatorContainerProps={{
                 style: {

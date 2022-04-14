@@ -15,7 +15,6 @@ interface IProps{
 
  export  default function TeamMemberCard(props:IProps) {
 
-  // const memberPath = props.name.replace(/ /g,'-').toLocaleLowerCase();
   const memberPath = props.id;
 
   if(props.avatar !== null){
