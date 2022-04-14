@@ -41,7 +41,7 @@ interface IMember  {
 	smallAvatar?:any;
 	memberInvestments:{
 		investmentsId:number;
-	}[]
+	}[];
 }  
 
 interface  ITeam {

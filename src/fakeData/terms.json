@@ -1,0 +1,40 @@
+{
+    "terms": [
+      {
+        "title": "Acceptance of the Terms of Use",
+        "details": [
+            {
+                "detail":"By using the Website, you accept and unconditionally agree to be bound and abide by these Terms of Use. We may revise, update, suspend, remove and/or otherwise change any portion of these Terms of Use from time to time in our sole discretion. All changes are effective immediately when we post them. Your continued use of the Website following the posting of revised Terms of Use means that you accept and agree to the changes."
+            }
+        ]
+      },
+      {
+        "title": "Investment Disclaimers",
+        "details": [
+            {
+                "detail":"You acknowledge that the content of the Website is provided for informational purposes only and is intended to provide information regarding Crestview’s capabilities with respect to potential portfolio investments. The Website is not intended to solicit investors for any security or investment product managed or sponsored by Crestview and may not be relied upon for such purpose. Nothing contained in the Website constitutes an offer to sell or a solicitation of an offer to buy any investments or securities. Any such offer or solicitation will be made only pursuant to a confidential offering memorandum, subscription agreement or other applicable offering documents relating to such securities which will qualify in their entirety any information on the Website and will be subject to the terms and conditions contained in such documents. PAST PERFORMANCE IS NOT A GUARANTEE OF FUTURE RESULTS, AND YOU SHOULD NOT ASSUME THAT ANY RESULTS FOR PORTFOLIO INVESTMENTS OF CRESTVIEW FUNDS WILL BE ACHIEVED FOR OTHER INVESTMENTS. To the extent the Website contains forward-looking statements with respect to Crestview’s portfolio investments, you should be aware that future results may differ significantly from those anticipated by such forward looking statements."
+            },
+            {
+                "detail":"Crestview’s provision of information to you through the Website, including information regarding Crestview’s current and historical portfolio investments, does not constitute the rendering of investment, consulting, legal, accounting, tax or other advice or services. You should not rely upon the information on the Website for making business, investment or other decisions or use such information as a substitute for consultation with professional advisors."
+            },
+            {
+                "detail":"Case studies of representative investments provided in the “Case Studies” section of the Website have been selected to illustrate Crestview’s collaboration with management teams and its ability to add value in connection with its portfolio investments and are not intended as a complete list of all investments historically made or currently held by Crestview’s funds. Please refer to the “Investments” section of the Website for information on each portfolio investment, realized and unrealized, made by Crestview’s funds."
+            },
+            {
+                "detail":"Crestview’s Senior Advisors assist Crestview in evaluating and managing investments and often act as directors or senior management of portfolio companies. Senior Advisors are independent consultants (and not employees) of Crestview, and related fees or expenses may be charged to Crestview’s funds or portfolio companies. Crestview also has established strategic alliances with non-affiliated firms to provide exclusive investment opportunities to Crestview’s funds in Western Europe and in the energy and industrials sectors in the U.S. These strategic alliances are with independent investment firms Aleph Capital Partners LLP and GRG Capital Partners LP. All investment decisions with regard to Crestview’s funds are made by Crestview’s investment committee."
+            },
+            {
+                "detail":"As used in the Website, the term “General Partner Participation” refers to participation in a fund as of its final closing by the general partner of such fund and certain of Crestview’s principals, employees and advisors and family members, family investment vehicles or employee benefit plans of any such persons."
+            }
+        ]
+      },
+      {
+        "title": "Prohibited Uses",
+        "details": [
+            {
+                "detail":"You may use the Website only for lawful purposes and in accordance with these Terms of Use."
+            }
+        ]
+      }
+    ]
+  }
