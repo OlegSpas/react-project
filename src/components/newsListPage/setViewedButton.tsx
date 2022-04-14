@@ -12,7 +12,6 @@ export default function SetViewedButton(props:IProps) {
     const handleSetViewedNews = () => {
         props.setViewedNews(props.newsLength);
         setDisplay('none');
-        console.log(props.newsLength)
   }
 
   if(props.newsLength > 20){
