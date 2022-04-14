@@ -41,15 +41,14 @@ export default function FactItem(props:IProps) {
                     {props.title}
                 </Typography>
                 <Divider 
-                    // className={classes.factDivider}
                     sx={{
                         backgroundColor:'#fff',
                         height:'0.5px'
                     }}
                     />
                 <Typography 
-                // className={classes.cardText} 
                 component='p'
+                variant='inherit'
                     sx={{
                         color:'#fff',
                         fontSize:{xs:'32px',md:'36px',lg:'52px'},
