@@ -1,6 +1,10 @@
-import {FIRM,INVESTMENTS,CASESTUDIES,TEAM,NEWS,CONTACT, TERMS, SITEMAP  } from "./routes.ts"
+import {HOME,FIRM,INVESTMENTS,CASESTUDIES,TEAM,NEWS,CONTACT, TERMS, SITEMAP  } from "./routes.ts"
 
 export const Routes: INavbarButton[] = [
+	{
+		buttonText: 'Home',
+		path: HOME
+	},
 	{
 		buttonText: 'Firm',
 		path: FIRM

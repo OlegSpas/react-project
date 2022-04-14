@@ -72,7 +72,7 @@ const Header = () => {
               }}> 
                LP Login
             </Button>
-            {Routes.slice(0,6).map((item:any, index:string) => (
+            {Routes.slice(1,7).map((item:any, index:string) => (
                 <NavigationButton 
                   {...item} 
                   key={index}
@@ -133,7 +133,7 @@ const Header = () => {
               }}> 
                LP Login
             </Button>
-            {Routes.slice(0,6).map((item:any, index:string) => (
+            {Routes.slice(1,7).map((item:any, index:string) => (
                 <NavigationButton 
                   {...item} 
                   key={index}
