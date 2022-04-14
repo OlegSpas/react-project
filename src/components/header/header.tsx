@@ -5,6 +5,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 import { Routes } from '../../routes/navRoutes.ts';
 import logo  from '../../images/logo.svg';
 import MobileLogo from '../../images/mobileLogo.svg';
+import { Link } from 'react-router-dom';
 
 
 const Header = () => {
@@ -17,6 +18,10 @@ const Header = () => {
   const handleCloseNavMenu = () => {
     setAnchorElNav(null);
   };
+
+  const handleCloseMenu = () => {
+    setAnchorElNav(false)
+  }
 
   return (
     <AppBar sx={{  
@@ -42,15 +47,17 @@ const Header = () => {
               display: { lg: 'flex', xs: 'none' }, 
               padding:0,  
           }}>
-            <Box
-              component="img"
-              alt="Logo"
-              src={logo}
-              sx={{
-                height:50,
-                maxHeight:210
-              }}
-            />
+            <Link to={{pathname:`/`}}>
+              <Box
+                component="img"
+                alt="Logo"
+                src={logo}
+                sx={{
+                  height:50,
+                  maxHeight:210
+                }}
+              />
+            </Link>
           </IconButton>
           <Box
             sx={{
@@ -92,20 +99,22 @@ const Header = () => {
                 padding:0
               }}
             >
-            <Box
-              component="img"
-              sx={{
-                height:45,
-                maxHeight:210,
-                flexGrow: 1, 
-                padding:0,
-                display: { xs: 'flex', lg: 'none' },
-                marginBottom:'15%'
+            <Link to={{pathname:`/`}}>
+              <Box
+                component="img"
+                sx={{
+                  height:45,
+                  maxHeight:210,
+                  flexGrow: 1, 
+                  padding:0,
+                  display: { xs: 'flex', lg: 'none' },
+                  marginBottom:'15%'
 
-              }}
-              alt="Logo"
-              src={MobileLogo}
-            />
+                }}
+                alt="Logo"
+                src={MobileLogo}
+              />
+            </Link>
             </IconButton>
             <IconButton
               size="large"
@@ -134,7 +143,7 @@ const Header = () => {
                LP Login
             </Button>
             {Routes.slice(1,7).map((item:any, index:string) => (
-                <NavigationButton 
+                <NavigationButton
                   {...item} 
                   key={index}
                 />
